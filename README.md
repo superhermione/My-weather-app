@@ -12,4 +12,5 @@ Tools and Libraries:
 
 Here's a walkthrough of implemented features:
 <img src="./assets/My-weather-app walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 created with Gifcap 
